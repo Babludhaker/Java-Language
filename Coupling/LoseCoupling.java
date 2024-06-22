@@ -1,4 +1,4 @@
-package CouplingInJava;
+package Coupling;
 
 interface Computer{
     void compile();

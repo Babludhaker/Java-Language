@@ -1,4 +1,4 @@
-package CouplingInJava;
+package Coupling;
 class Laptop{
     public void compile(){
         System.out.println(" Compiling......");
